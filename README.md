@@ -53,16 +53,16 @@ hobi: ["bersepeda", "baca artikel tech", "ngoding"]
 ## 📈 GitHub Statistik
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME-ANDA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-ANDA&layout=compact&theme=tokyonight&hide_border=true" width="34%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadzakialzahirEngineer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzakialzahirEngineer&layout=compact&theme=tokyonight&hide_border=true" width="34%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME-ANDA&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadzakialzahirEngineer&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME-ANDA&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadzakialzahirEngineer&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
 </div>
 
 <br/>
@@ -70,7 +70,7 @@ hobi: ["bersepeda", "baca artikel tech", "ngoding"]
 ## 📊 Aktivitas Kontribusi
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME-ANDA&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadzakialzahirEngineer&theme=tokyo-night&hide_border=true" width="90%"/>
 </div>
 
 <br/>
@@ -80,19 +80,19 @@ hobi: ["bersepeda", "baca artikel tech", "ngoding"]
 <div align="center">
 
 <a href="https://github.com/USERNAME-ANDA/repo-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME-ANDA&repo=repo-1&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadzakialzahirEngineer&repo=repo-1&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/USERNAME-ANDA/repo-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME-ANDA&repo=repo-2&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadzakialzahirEngineer&repo=repo-2&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
 | Proyek | Deskripsi | Teknologi |
 |---|---|---|
-| [Nama Proyek 1](https://github.com/USERNAME-ANDA/repo-1) | Deskripsi singkat & menarik tentang proyek ini | `React` `Node.js` `MongoDB` |
-| [Nama Proyek 2](https://github.com/USERNAME-ANDA/repo-2) | Deskripsi singkat & menarik tentang proyek ini | `Next.js` `Tailwind` `Prisma` |
-| [Nama Proyek 3](https://github.com/USERNAME-ANDA/repo-3) | Deskripsi singkat & menarik tentang proyek ini | `Python` `FastAPI` `Docker` |
+| [Nama Proyek 1](https://github.com/muhammadzakialzahirEngineer/repo-1) | Deskripsi singkat & menarik tentang proyek ini | `React` `Node.js` `MongoDB` |
+| [Nama Proyek 2](https://github.com/muhammadzakialzahirEngineer/repo-2) | Deskripsi singkat & menarik tentang proyek ini | `Next.js` `Tailwind` `Prisma` |
+| [Nama Proyek 3](https://github.com/muhammadzakialzahirEngineer/repo-3) | Deskripsi singkat & menarik tentang proyek ini | `Python` `FastAPI` `Docker` |
 
 <br/>
 
