@@ -20,23 +20,23 @@
 ## ⚡ Tentang Saya
 
 ```yaml
-nama: "Nama Anda"
-peran: "Software Developer"
-lokasi: "Kota, Indonesia"
+nama: "Muhammad Zaki Al Zahir"
+peran: "Cybersecurity & Backend Development"
+lokasi: "Jepara, Indonesia"
 sedang_mengerjakan: "Nama Proyek Keren"
-sedang_belajar: "Teknologi Baru yang Ingin Dikuasai"
+sedang_belajar: "Keamanan Sistem dan Cybersecurity"
 tujuan_2026: "Berkontribusi lebih banyak di Open Source"
-hobi: ["ngoding", "baca artikel tech", "ngopi"]
+hobi: ["bersepeda", "baca artikel tech", "ngoding"]
 ```
 
 <img align="right" width="40%" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
 - 🔭 Sedang mengerjakan **[Nama Proyek]**
-- 🌱 Sedang memperdalam **[Skill/Bahasa]**
+- 🌱 Sedang memperdalam **[Java]**
 - 👯 Terbuka untuk kolaborasi proyek **open source & web development**
-- 💬 Tanyakan saya soal **JavaScript, React, atau Backend Development**
-- 📫 Hubungi saya di **email@contoh.com**
-- ⚡ Fun fact: **saya suka menyelesaikan bug di tengah malam** 🌙
+- 💬 Tanyakan saya soal **Java, Php, atau Backend Development**
+- 📫 Hubungi saya di **muhammadzakialzahir@gmail.com**
+- ⚡ Fun fact: **saya lebih fokus belajar sendiri** 🌙
 
 <br/>
 
