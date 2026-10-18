@@ -30,8 +30,8 @@ hobi: ["bersepeda", "baca artikel tech", "ngoding"]
 
 <img align="right" width="40%" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
-- 🔭 Sedang mengerjakan **[Nama Proyek]**
-- 🌱 Sedang memperdalam **[Java]**
+- 🔭 Sedang mengerjakan **akazz platform marketplace**
+- 🌱 Sedang memperdalam **Java & Cybersecurity**
 - 👯 Terbuka untuk kolaborasi proyek **open source & web development**
 - 💬 Tanyakan saya soal **Java, Php, atau Backend Development**
 - 📫 Hubungi saya di **muhammadzakialzahir@gmail.com**
@@ -43,7 +43,7 @@ hobi: ["bersepeda", "baca artikel tech", "ngoding"]
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,php,laravel,mysql,mongodb,docker,git,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,php,laravel,mysql,mongodb,,git,figma,vscode&theme=dark" />
 
 </div>
 
