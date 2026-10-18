@@ -74,10 +74,10 @@ hobi: ["bersepeda", "baca artikel tech", "ngoding"]
 
 <div align="center">
 
-<a href="[https://github.com/USERNAME-ANDA/repo-1](https://github.com/muhammadzakialzahirEngineer/cafe-pos-multirole)">
+<a href="https://github.com/muhammadzakialzahirEngineer/cafe-pos-multirole">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadzakialzahirEngineer&repo=repo-1&theme=tokyonight&hide_border=true" />
 </a>
-<a href="[https://github.com/USERNAME-ANDA/repo-2](https://github.com/muhammadzakialzahirEngineer/bank-database-system-mysql)">
+<a href="https://github.com/muhammadzakialzahirEngineer/bank-database-system-mysql">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadzakialzahirEngineer&repo=repo-2&theme=tokyonight&hide_border=true" />
 </a>
 
