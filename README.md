@@ -69,7 +69,7 @@ hobi: ["bersepeda", "baca artikel tech", "ngoding"]
 ## 📊 Aktivitas Kontribusi
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadzakialzahirEngineer&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://ghchart.rshah.org/6366f1/muhammadzakialzahirEngineer" alt="Grafik Kontribusi" width="90%"/>
 </div>
 
 <br/>
