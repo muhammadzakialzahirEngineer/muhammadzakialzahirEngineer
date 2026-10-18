@@ -43,7 +43,7 @@ hobi: ["bersepeda", "baca artikel tech", "ngoding"]
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,php,laravel,mysql,mongodb,,git,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,php,laravel,mysql,mongodb,git,figma,vscode&theme=dark" />
 
 </div>
 
