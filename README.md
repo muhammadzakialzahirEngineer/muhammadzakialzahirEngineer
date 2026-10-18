@@ -117,6 +117,6 @@ hobi: ["bersepeda", "baca artikel tech", "ngoding"]
 
 **⭐ Terima kasih sudah mampir! Jangan lupa follow kalau suka dengan proyek saya.**
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME-ANDA&label=Profile%20Views&color=6C63FF&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=muhammadzakialzahirEngineer&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
 
 </div>
