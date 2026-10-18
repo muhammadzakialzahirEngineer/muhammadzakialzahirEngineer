@@ -85,9 +85,9 @@ hobi: ["bersepeda", "baca artikel tech", "ngoding"]
 
 | Proyek | Deskripsi | Teknologi |
 |---|---|---|
-| [Nama Proyek 1](https://github.com/muhammadzakialzahirEngineer/repo-1) | Deskripsi singkat & menarik tentang proyek ini | `React` `Node.js` `MongoDB` |
-| [Nama Proyek 2](https://github.com/muhammadzakialzahirEngineer/repo-2) | Deskripsi singkat & menarik tentang proyek ini | `Next.js` `Tailwind` `Prisma` |
-| [Nama Proyek 3](https://github.com/muhammadzakialzahirEngineer/repo-3) | Deskripsi singkat & menarik tentang proyek ini | `Python` `FastAPI` `Docker` |
+| [cafe pos multirole](https://github.com/muhammadzakialzahirEngineer/cafe-pos-multirole) | Sistem Point of Sale (kasir) kafe multi-cabang dengan akses berbasis peran (role-based access): Kasir, Manajer, dan Pemilik. Dilengkapi manajemen shift, verifikasi laporan berjenjang, laporan penjualan yang bisa diekspor ke PDF, serta monitoring real-time seluruh cabang.| `HTML` `PHP` `MySQL` |
+| [bank database system](https://github.com/muhammadzakialzahirEngineer/bank-database-system-mysql) | Database MySQL/MariaDB untuk simulasi sistem perbankan sederhana. Proyek ini mengelola data nasabah, rekening, dan transaksi transfer antar rekening, dilengkapi dengan stored procedure, function, dan trigger untuk validasi saldo serta pencatatan log transaksi secara otomatis.|  `MySQL` |
+| [HotelRoomServiceOrderSystem](https://github.com/muhammadzakialzahirEngineer/AlproProject-HotelRoomServiceOrderSystem) |Aplikasi console berbasis C++ untuk mengelola pesanan makanan dan minuman tamu hotel. Proyek ini dibuat sebagai tugas Algoritma dan Pemrograman (AlproProject). | `C++` |
 
 <br/>
 
