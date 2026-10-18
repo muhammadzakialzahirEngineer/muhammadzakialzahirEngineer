@@ -60,10 +60,6 @@ hobi: ["bersepeda", "baca artikel tech", "ngoding"]
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadzakialzahirEngineer&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadzakialzahirEngineer&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
-</div>
-
 <br/>
 
 ## 📊 Aktivitas Kontribusi
@@ -95,12 +91,13 @@ hobi: ["bersepeda", "baca artikel tech", "ngoding"]
 
 <br/>
 
-## 🎧 Sedang Mendengarkan (Opsional - Spotify)
+## 🎧 Sedang Mendengarkan
 
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=USERNAME-SPOTIFY&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+<a href="https://youtu.be/SdMdol1z_Cg?si=hsdENbiDVyebxI89">
+<img src="https://img.shields.io/badge/🎵_Lagu_Favorit-Raim_Laode-1DB954?style=for-the-badge&logo=youtube&logoColor=white" alt="Lagu favorit Raim Laode" />
+</a>
 </div>
-
 <br/>
 
 ## 😄 Kutipan Hari Ini
