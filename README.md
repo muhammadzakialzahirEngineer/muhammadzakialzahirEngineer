@@ -75,7 +75,7 @@ hobi: ["bersepeda", "baca artikel tech", "ngoding"]
 <div align="center">
 
 <a href="https://github.com/muhammadzakialzahirEngineer/cafe-pos-multirole">
-<img src="https://img.shields.io/badge/Cafe_POS_Multirole-View_Repo-6366f1?style=for-the-badge&logo=github" alt="cafe-pos-multirole" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadzakialzahirEngineer&repo=cafe-pos-multirole&theme=tokyonight&hide_border=true" alt="cafe-pos-multirole" />
 </a>
 
 <a href="https://github.com/muhammadzakialzahirEngineer/bank-database-system-mysql">
