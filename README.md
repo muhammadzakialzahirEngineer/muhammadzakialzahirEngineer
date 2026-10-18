@@ -21,9 +21,8 @@
 
 ```yaml
 nama: "Muhammad Zaki Al Zahir"
-peran: "Cybersecurity & Backend Development"
+peran: "Backend Development"
 lokasi: "Jepara, Indonesia"
-sedang_mengerjakan: "Nama Proyek Keren"
 sedang_belajar: "Keamanan Sistem dan Cybersecurity"
 tujuan_2026: "Berkontribusi lebih banyak di Open Source"
 hobi: ["bersepeda", "baca artikel tech", "ngoding"]
