@@ -23,8 +23,8 @@
 nama: "Muhammad Zaki Al Zahir"
 peran: "Backend Development"
 lokasi: "Jepara, Indonesia"
-sedang_belajar: "Keamanan Sistem dan Cybersecurity"
-tujuan_2026: "Berkontribusi lebih banyak di Open Source"
+sedang belajar: "Keamanan Sistem dan Cybersecurity"
+tujuan 2026: "Berkontribusi lebih banyak di Open Source"
 hobi: ["bersepeda", "baca artikel tech", "ngoding"]
 ```
 
